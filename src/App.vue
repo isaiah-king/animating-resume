@@ -22,22 +22,13 @@
         currentStyle: '',
         enableHtml: false,
         fullStyle: [
-          `/*
-* Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘，你是不是也在准备简历呀。
-* 说做就做，我也来写一份简历！
-*/
-
-/* 首先给所有元素加上过渡效果 */
+          `
 * {
   transition: all .3s;
 }
-/* 白色背景太单调了，我们来点背景 */
 html {
   color: rgb(222,222,222); background: rgb(0,43,54);
 }
-/* 文字离边框太近了 */
 .styleEditor {
   padding: .5em;
   border: 1px solid;
@@ -45,13 +36,11 @@ html {
   overflow: auto;
   width: 45vw; height: 90vh;
 }
-/* 代码高亮 */
 .token.selector{ color: rgb(133,153,0); }
 .token.property{ color: rgb(187,137,0); }
 .token.punctuation{ color: yellow; }
 .token.function{ color: rgb(42,161,152); }
 
-/* 加点 3D 效果呗 */
 html{
   perspective: 1000px;
 }
@@ -63,7 +52,6 @@ html{
           transform: rotateY(10deg) translateZ(-100px) ;
 }
 
-/* 接下来我给自己准备一个编辑器 */
 .resumeEditor{
   position: fixed; right: 0; top: 0;
   padding: .5em;  margin: .5em;
@@ -72,19 +60,7 @@ html{
   background: white; color: #222;
   overflow: auto;
 }
-/* 好了，我开始写简历了 */
 
-
-`,
-          `
-/* 这个简历好像差点什么
- * 对了，这是 Markdown 格式的，我需要变成对 HR 更友好的格式
- * 简单，用开源工具翻译成 HTML 就行了
- */
-`
-          ,
-          `
-/* 再对 HTML 加点样式 */
 .resumeEditor{
   padding: 2em;
 }
@@ -115,7 +91,7 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `Isaiah King - Atlanta, GA - (857) 526-7297
 ----
 
 Customer Service Representitive, Software Engineer, Lasell College Allumni (http://lasell.edu)
@@ -144,8 +120,6 @@ Footprint
 * [GitHub](https://github.com/isaiah-king)
 * [GitHub Org](https://github.com/manifestlifeinc)
 * [LinkedIn](https://www.linkedin.com/in/manifestlife)
-
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
 
 `
       }
