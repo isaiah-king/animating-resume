@@ -118,29 +118,32 @@ html{
         fullMarkdown: `方应杭
 ----
 
-资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
+Customer Service Representitive, Software Engineer, Lasell College Allumni (http://lasell.edu)
 
-技能
 ----
 
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+* Customer Service
+* Microservice Design
+* Node.js Development
+* DB Administration
+* Web/Mobile Application Development
+* Software Delivery 
 
-工作经历
+Work Experience
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. Lasell College - Maintenance Technician[Newton, MA]
+2. Lasell Village - Fine Dining Waiter[Newton, MA]
+3. Mirbeau Inn & Spa - Aqua Terrace Bartender[Plymouth, MA]
+4. CVS - Customer Service Clerk[Plymouth, MA]
+5. High Point Treatment Center - Recovery Specialist, Clinician II[Plymouth, MA]
 
-链接
+Footprint
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+* [GitHub](https://github.com/isaiah-king)
+* [GitHub Org](https://github.com/manifestlifeinc)
+* [LinkedIn](https://www.linkedin.com/in/manifestlife)
 
 > 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
 
